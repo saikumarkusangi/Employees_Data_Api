@@ -7,12 +7,12 @@
 "lastName": "singh",
 "email": "vikram.singh@gamil.com",
 "contactNumber": "4620499304",
-"age": 25,
 "dob": "21/06/1998",
 "salary": 100000,
 "address": "Address1",
 "role": "Web Developer",
-"active": true
+"active": true,
+"date of joining":12/07/2017
 },
  {
 "id": 1002,
@@ -26,7 +26,8 @@
 "salary": 60000,
 "address": "Address2",
 "role": "Android Developer",
-"active": false
+"active": false,
+"date of joining":12/07/2020
 },
 {
 "id": 1003,
@@ -40,7 +41,8 @@
 "salary": 85000,
 "address": "Address3",
 "role": "Machine Learning Engineer",
-"active": true
+"active": true,
+ "date of joining":12/07/2015
 },
 {
 "id": 1004,
@@ -54,7 +56,8 @@
 "salary": 45000,
 "address": "Address4",
 "role": "Junior Web Developer",
-"active": false
+"active": false,
+ "date of joining":12/07/2012
 },
  {
 "id": 1005,
@@ -68,7 +71,8 @@
 "salary": 50000,
 "address": "Address5",
 "role": "Programmer Analyst",
-"active": false
+"active": false,
+"date of joining":10/02/2017
 },
 {
 "id": 1006,
@@ -82,7 +86,8 @@
 "salary": 250000,
 "address": "Address6",
 "role": "JavaScript Developer",
-"active": true
+"active": true,
+    "date of joining":12/07/2021
 },
  {
 "id": 1007,
@@ -96,7 +101,8 @@
 "salary": 75000,
 "address": "Address7",
 "role": "AWS Solutions Architect",
-"active": false
+"active": false,
+     "date of joining":12/07/2010
 },
  {
 "id": 1008,
@@ -110,7 +116,8 @@
 "salary": 88000,
 "address": "Address8",
 "role": "Python Developer",
-"active": true
+"active": true,
+     "date of joining":12/10/2021
 },
  {
 "id": 1009,
@@ -124,7 +131,8 @@
 "salary": 90000,
 "address": "Address9",
 "role": "SQL Developer",
-"active": false
+"active": false,
+     "date of joining":12/07/2014
 },
 {
 "id": 1010,
@@ -138,7 +146,10 @@
 "salary": 180000,
 "address": "Address10",
 "role": "Java Developer",
-"active": true
+"active": true,
+    
+    "date of joining":12/07/2008
+    
 }
 
 ]
