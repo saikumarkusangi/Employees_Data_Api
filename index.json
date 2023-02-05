@@ -2,7 +2,7 @@
     
 {
 "id": 1001,
-"imageUrl": "https://media.istockphoto.com/id/1059661424/photo/mature-mixed-race-business-man.jpg?s=612x612&w=0&k=20&c=UAVBeyoD_LkCh1MzVaWW1SR1iwK-VkPDXWMH2o2wL8M=",
+"imageUrl": "https://ik.imagekit.io/bxjsui5hr/bikes_companies/yamaha_logo.png?ik-sdk-version=javascript-1.4.3&updatedAt=1675605162101",
 "firstName": "vikram",
 "lastName": "singh",
 "email": "vikram.singh@gamil.com",
@@ -16,7 +16,7 @@
 },
  {
 "id": 1002,
-"imageUrl": "https://t3.ftcdn.net/jpg/02/48/15/86/360_F_248158608_0ErNeAWWx6GZVDCg66jNRoPGEhHCSpaJ.jpg",
+"imageUrl": "https://ik.imagekit.io/bxjsui5hr/bikes_companies/tvs_logo.png?ik-sdk-version=javascript-1.4.3&updatedAt=1675605162075",
 "firstName": "ram",
 "lastName": "kumar",
 "email": "ram.kumar@gamil.com",
@@ -46,7 +46,7 @@
 },
 {
 "id": 1004,
-"imageUrl": "https://c1.wallpaperflare.com/preview/472/306/455/rishi-gangoly-man-indian-professional-male-thinking.jpg",
+"imageUrl": "https://ik.imagekit.io/bxjsui5hr/bikes_companies/bajaj_logo.png?ik-sdk-version=javascript-1.4.3&updatedAt=1675605162016",
 "firstName": "devinder",
 "lastName": "chadda",
 "email": "devinder.chadda@gamil.com",
@@ -61,7 +61,7 @@
 },
  {
 "id": 1005,
-"imageUrl": "https://t4.ftcdn.net/jpg/04/03/25/19/360_F_403251913_HagCXbovkXO5u3HvZQzH2SwXpE3jEX2M.jpg",
+"imageUrl": "https://ik.imagekit.io/bxjsui5hr/bikes_companies/hero_logo.png?ik-sdk-version=javascript-1.4.3&updatedAt=1675605162005",
 "firstName": "sumit",
 "lastName": "mitra",
 "email": "sumit.mitra@gamil.com",
@@ -76,7 +76,7 @@
 },
 {
 "id": 1006,
-"imageUrl": "https://media.istockphoto.com/id/1159948727/photo/business-has-been-picking-up-well-under-his-leadership.jpg?s=612x612&w=0&k=20&c=fyfuPp-ElenK8Let_J2VX-E8NL5RYL3S7yoHeaZ8Fvs=",
+"imageUrl": "https://ik.imagekit.io/bxjsui5hr/bikes_companies/royal_enfield_logo.png?ik-sdk-version=javascript-1.4.3&updatedAt=1675605161983",
 "firstName": "Kayla",
 "lastName": "Gulgowski",
 "email": "Kayla.Gulgowski@gamil.com",
@@ -91,7 +91,7 @@
 },
  {
 "id": 1007,
-"imageUrl": "https://media.istockphoto.com/id/1297573916/photo/confident-businessman-with-arms-crossed.jpg?s=612x612&w=0&k=20&c=QXPoz6xrQIIoYwsR0SJ2ZL1zoVgxqU5__szSzDffOec=",
+"imageUrl": "https://ik.imagekit.io/bxjsui5hr/bikes_companies/honda_logo.png?ik-sdk-version=javascript-1.4.3&updatedAt=1675605161998",
 "firstName": "bhagwati",
 "lastName": "prasad",
 "email": "bhagwati.prasad@gamil.com",
@@ -106,7 +106,7 @@
 },
  {
 "id": 1008,
-"imageUrl": "https://media.istockphoto.com/id/1336230140/photo/portrait-of-a-happy-mature-man-of-indian-ethnicity.jpg?s=170667a&w=0&k=20&c=1apqbENCOLI7CL-MNZJRFC6H353FzPqEH42LY_3nmKo=",
+"imageUrl": "https://ik.imagekit.io/bxjsui5hr/bikes_companies/suzuki_logo.png?ik-sdk-version=javascript-1.4.3&updatedAt=1675605161931",
 "firstName": "doodhnath",
 "lastName": "pandit",
 "email": "doodhnath.pandit@gamil.com",
@@ -119,37 +119,6 @@
 "active": true,
      "date of joining":12/10/2021
 },
- {
-"id": 1009,
-"imageUrl": "https://media.istockphoto.com/id/1277971635/photo/portrait-of-a-smiling-man-of-indian-ethnicity.jpg?s=170667a&w=0&k=20&c=tQEoWFPodItJBAeDaO_2pcwY4KCIV6eO5S0XPYXaW34=",
-"firstName": "shyam",
-"lastName": "kumar",
-"email": "shyam.kumar@gamil.com",
-"contactNumber": "4865098026",
-"age": 34,
-"dob": "07/02/1989",
-"salary": 90000,
-"address": "Address9",
-"role": "SQL Developer",
-"active": false,
-     "date of joining":12/07/2014
-},
-{
-"id": 1010,
-"imageUrl": "https://storage.googleapis.com/impact-news-photo/news-photo/7776.Volume-18-Issue-34-22.jpg",
-"firstName": "ramdin",
-"lastName": "verma",
-"email": "ramdin.verma@gamil.com",
-"contactNumber": "4688691473",
-"age": 38,
-"dob": "21/02/1935",
-"salary": 180000,
-"address": "Address10",
-"role": "Java Developer",
-"active": true,
-    
-    "date of joining":12/07/2008
-    
-}
+ 
 
 ]
